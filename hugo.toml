@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "vi"
+title = "Blog của tôi"
+theme = "PaperMod"
+[menu]
+  [[menu.main]]
+    name = "Trang chủ"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Giới thiệu"
+    url = "/about/"
+    weight = 2
