@@ -2,7 +2,7 @@
 ---
 title: "Bài viết đầu tiên"
 date: 2026-01-01
-draft: false
+draft: true
 summary: "Bài viết mở đầu cho blog cá nhân của tôi."
 cover:
   image: "cover.jpg"
