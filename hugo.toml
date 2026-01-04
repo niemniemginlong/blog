@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://niemniemginlong.netlify.app/"
 languageCode = "vi"
 title = "Blog của tôi"
 theme = "PaperMod"
