@@ -1,10 +1,10 @@
 baseURL = "https://niemniemginlong.netlify.app/"
 languageCode = "vi"
-title = "Blog của tôi"
+title = "Niệm niệm gìn lòng"
 theme = "PaperMod"
 [menu]
   [[menu.main]]
-    name = "Trang chủ"
+    name = "Bài mới viết"
     url = "/"
     weight = 1
 
