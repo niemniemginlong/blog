@@ -1,5 +1,5 @@
 ---
-title: Mê tín
+title: Hai nghĩa chữ Bi 悲
 date: 2026-01-26T14:56:00.000+07:00
 draft: false
 ---
