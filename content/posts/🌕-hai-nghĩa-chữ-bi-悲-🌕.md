@@ -1,8 +1,10 @@
 ---
-title: 🌕 Hai nghĩa chữ Bi 悲 🌕
+title: Hai nghĩa chữ Bi
 date: 2026-01-26T20:12:00.000+07:00
 draft: false
 ---
+🌕 Hai nghĩa chữ Bi 悲 🌕
+
 Chữ *Bi* 悲 có hai nghĩa với hai sắc thái khác biệt nhau nhiều mà nếu nhầm lẫn thì tai hại lắm. Nên con nghĩa mình được học rồi thì cũng phải biên ra để ai có dịp đọc thì cũng biết qua. Được một chữ đỡ lầm thì hay một chữ, đó là ráng tránh việc “y kinh giải nghĩa” nhưng lại làm cho “tam thế Phật oan” vậy.
 
 Thiều Chửu giảng "Bi: ① Ðau, khóc không có nước mắt gọi là bi. ② Thương xót, đạo Phật lấy từ bi làm tôn chỉ, nghĩa là thương xót chúng sinh mà ra tay tế độ." Có hai câu trong bài Thu dạ kỳ nhất của Nguyễn Du rằng:
