@@ -1,6 +1,6 @@
 ---
 title: Hai nghĩa chữ Bi 悲
-date: 2026-01-26T14:56:00.000+07:00
+date: 2026-01-26T15:02:00.000+07:00
 draft: false
 ---
 🌕 Hai nghĩa chữ Bi 悲 🌕
@@ -21,7 +21,7 @@ Trong kinh Hán tạng cũng có thể bắt gặp cả hai nghĩa như thế. K
 
 Đây con xin bàn thêm để làm rõ hai sắc thái khác biệt của hai nghĩa ① và ②. Ở nghĩa ①, sự đau buồn ở đây có tính cách vướng mắc, thống khổ, vì phải chịu đựng một nỗi đau đớn nào đó nên có sự đau buồn ấy. Sắc thái của nghĩa ① là “ngậm đắng nuốt cay”, chịu đựng vì dường như không có cách nào khác, một sự bế tắc. Ở nghĩa ②, hiểu theo cách “giúp người bớt khổ”, tức là sự thương cảm xuất phát từ tấm lòng, đó là thứ tình thương khi ta nhìn một em bé bị té đau chân, ta muốn đến đỡ em bé lên, ôm em vào lòng, hòng giúp em bớt khổ. Tình thương ở nghĩa ② không chứa sự vướng mắc, không chứa bản ngã, đó là thứ tình thương dựa trên sự thấu hiểu nỗi đau chứ không phải nỗi chịu đựng. Sắc thái của nghĩa ② là “tương thân tương ái”, vì thấu hiểu nỗi đau nên phát sinh tình thương, một tình thương rộng lớn và ấm áp.
 
-Nắm được sự khác biệt ấy thì mình khỏi lầm. Ví như khi nghe tới việc thực tập bi quán thì mình không nên hiểu rằng đó là mời sự đau khổ, sự tội nghiệp của mình lên để mà kể lể, để so coi ai khổ nhiều hơn ai để rồi càng suy nghĩ càng chán đời, lọt sâu vào hầm hố khổ đau. Mình nên hiểu bi quán tức là nhìn sâu để thấu hiểu nỗi đau, của mình, của người, thấy như vậy để mà làm cái gì, nói cái gì để giúp cải thiện tình trạng, để “giúp người bớt khổ” (“người” ở đây cũng có thể là chính mình).
+Nắm được sự khác biệt ấy thì mình khỏi lầm. Ví như khi nghe tới việc thực tập bi quán thì mình không nên hiểu rằng đó là mời sự đau khổ, sự tội nghiệp của mình lên để mà kể lể, để so coi ai khổ nhiều hơn ai để rồi càng suy nghĩ càng chán đời, lọt sâu vào hầm hố khổ đau. Mình nên hiểu bi quán tức là nhìn sâu để thấu hiểu nỗi đau của mình, của người, thấy như vậy để mà làm, mà nói nhằm cải thiện tình trạng, để **giúp người bớt khổ** (“người” ở đây cũng có thể là chính mình). Trong bi quán không có thêm thống khổ, không có thêm đau đớn, chỉ có tình thương và đồng cảm vậy.
 
 \_\_\_\_\_\_\_\_\_\__
 
