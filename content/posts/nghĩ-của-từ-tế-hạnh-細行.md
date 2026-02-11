@@ -30,7 +30,7 @@ Vậy nên giữ gìn tế hạnh là giữ gìn cho mình, giữ gìn cho mọi
 
 ________________
 
-Sách tham khảo: Dương Quảng Hám (1951), *Việt Nam thi văn hợp tuyển*, Bộ Quốc-gia Giáo-dục xuất bản. Bản điện tử tại trang web Thư viện Quốc gia Việt Nam: http://sach.nlv.gov.vn/sach/cgi-bin/sach?a=d&d=tdNBGG1951.2.2.4&e=-------en-20--1--img-txIN-------
+Sách tham khảo: Dương Quảng Hàm (1951), *Việt Nam thi văn hợp tuyển*, Bộ Quốc-gia Giáo-dục xuất bản. Bản điện tử tại trang web Thư viện Quốc gia Việt Nam: http://sach.nlv.gov.vn/sach/cgi-bin/sach?a=d&d=tdNBGG1951.2.2.4&e=-------en-20--1--img-txIN-------
 
 ________________
 
