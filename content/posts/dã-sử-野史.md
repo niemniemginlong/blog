@@ -1,5 +1,5 @@
 ---
-title: Dã sử 野史
+title: "Dã sử 野史: Lịch sử lưu truyền trong dân gian"
 date: 2026-02-14T22:01:00.000+07:00
 draft: false
 ---
