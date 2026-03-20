@@ -1,5 +1,5 @@
 ---
-title: Nghĩ của từ "Tế hạnh" (細行)
+title: "Tế hạnh (細行): Nết cư xử tỉ mĩ, khéo léo"
 date: 2026-02-08T20:12:00.000+07:00
 draft: false
 ---
@@ -8,7 +8,7 @@ draft: false
 Tế hạnh, chữ Hán viết là 細行. Thiều Chửu giảng:\
 \- Tế: ① Nhỏ; ② Tinh tế, tế mật, trái lại với thô suất gọi là tế.\
 \- Hạnh: ⑫ Một âm là hạnh. Ðức hạnh, nết na, còn ở tâm là đức 德, thi hành ra là hạnh 行.\
-(NNGL) Tế hạnh là những nết cư xử nhỏ, tinh tế trong đời sống hằng ngày.
+(NNGL) Tế hạnh là những nết cư xử tỉ mĩ, khéo léo trong đời sống hằng ngày.
 
 Đạo Bụt không chỉ dạy lễ lược, cầu xin, tụng niệm. Cốt lõi của đạo Bụt là phải sống với chánh pháp trong đời sống hằng ngày. Đời sống hằng ngày thì phần nhiều là những chuyện vụn vặt. Uống ngụm nước, ăn chén cơm, đi cầu tiêu, há miệng ngáp, v.v., đều là chuyện “nhỏ nhặt”. Song đời sống ta được tạo thành từ những chuyện gọi là "nhỏ nhặt" ấy. Vượt thoát sinh tử không phải đợi tới lúc gần chết mới làm, vượt thoát sinh tử phải được làm ngay trong mấy thứ vụn vặt.
 
